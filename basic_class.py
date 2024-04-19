@@ -16,6 +16,7 @@ class sub_class(Super_class):
         
 
 myobject = sub_class("Aswani", 22)
+myobject2 = sub_class("Ambale", 23)
 
 print(myobject)
 print(myobject.age)
